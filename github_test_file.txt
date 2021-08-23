@@ -1,0 +1,6 @@
+This is a test file for use in exploring GITHUB
+it is in the github Test Folder
+
+new line
+
+second new line
